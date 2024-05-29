@@ -1,0 +1,7 @@
+C:\Users\Busra\source\repos\AbstractFactory_Healthcare\AbstractFactory_Healthcare\obj\Debug\AbstractFactory_Healthcare.csproj.AssemblyReference.cache
+C:\Users\Busra\source\repos\AbstractFactory_Healthcare\AbstractFactory_Healthcare\obj\Debug\AbstractFactory_Healthcare.csproj.CoreCompileInputs.cache
+C:\Users\Busra\source\repos\AbstractFactory_Healthcare\AbstractFactory_Healthcare\bin\Debug\AbstractFactory_Healthcare.exe.config
+C:\Users\Busra\source\repos\AbstractFactory_Healthcare\AbstractFactory_Healthcare\bin\Debug\AbstractFactory_Healthcare.exe
+C:\Users\Busra\source\repos\AbstractFactory_Healthcare\AbstractFactory_Healthcare\bin\Debug\AbstractFactory_Healthcare.pdb
+C:\Users\Busra\source\repos\AbstractFactory_Healthcare\AbstractFactory_Healthcare\obj\Debug\AbstractFactory_Healthcare.exe
+C:\Users\Busra\source\repos\AbstractFactory_Healthcare\AbstractFactory_Healthcare\obj\Debug\AbstractFactory_Healthcare.pdb
