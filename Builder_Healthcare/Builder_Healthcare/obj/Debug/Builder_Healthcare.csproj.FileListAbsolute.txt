@@ -1,0 +1,7 @@
+C:\Users\Busra\source\repos\Builder_Healthcare\Builder_Healthcare\bin\Debug\Builder_Healthcare.exe.config
+C:\Users\Busra\source\repos\Builder_Healthcare\Builder_Healthcare\bin\Debug\Builder_Healthcare.exe
+C:\Users\Busra\source\repos\Builder_Healthcare\Builder_Healthcare\bin\Debug\Builder_Healthcare.pdb
+C:\Users\Busra\source\repos\Builder_Healthcare\Builder_Healthcare\obj\Debug\Builder_Healthcare.csproj.AssemblyReference.cache
+C:\Users\Busra\source\repos\Builder_Healthcare\Builder_Healthcare\obj\Debug\Builder_Healthcare.csproj.CoreCompileInputs.cache
+C:\Users\Busra\source\repos\Builder_Healthcare\Builder_Healthcare\obj\Debug\Builder_Healthcare.exe
+C:\Users\Busra\source\repos\Builder_Healthcare\Builder_Healthcare\obj\Debug\Builder_Healthcare.pdb
