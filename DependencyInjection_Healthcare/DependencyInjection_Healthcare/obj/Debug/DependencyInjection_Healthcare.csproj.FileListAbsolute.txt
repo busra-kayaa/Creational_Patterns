@@ -1,0 +1,7 @@
+C:\Users\Busra\source\repos\DependencyInjection_Healthcare\DependencyInjection_Healthcare\obj\Debug\DependencyInjection_Healthcare.csproj.AssemblyReference.cache
+C:\Users\Busra\source\repos\DependencyInjection_Healthcare\DependencyInjection_Healthcare\obj\Debug\DependencyInjection_Healthcare.csproj.CoreCompileInputs.cache
+C:\Users\Busra\source\repos\DependencyInjection_Healthcare\DependencyInjection_Healthcare\bin\Debug\DependencyInjection_Healthcare.exe.config
+C:\Users\Busra\source\repos\DependencyInjection_Healthcare\DependencyInjection_Healthcare\bin\Debug\DependencyInjection_Healthcare.exe
+C:\Users\Busra\source\repos\DependencyInjection_Healthcare\DependencyInjection_Healthcare\bin\Debug\DependencyInjection_Healthcare.pdb
+C:\Users\Busra\source\repos\DependencyInjection_Healthcare\DependencyInjection_Healthcare\obj\Debug\DependencyInjection_Healthcare.exe
+C:\Users\Busra\source\repos\DependencyInjection_Healthcare\DependencyInjection_Healthcare\obj\Debug\DependencyInjection_Healthcare.pdb
