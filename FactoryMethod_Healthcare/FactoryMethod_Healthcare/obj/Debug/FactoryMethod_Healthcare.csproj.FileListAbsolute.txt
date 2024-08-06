@@ -1,0 +1,14 @@
+C:\Users\Busra\source\repos\FactoryMethod_Healthcare\FactoryMethod_Healthcare\bin\Debug\FactoryMethod_Healthcare.exe.config
+C:\Users\Busra\source\repos\FactoryMethod_Healthcare\FactoryMethod_Healthcare\bin\Debug\FactoryMethod_Healthcare.exe
+C:\Users\Busra\source\repos\FactoryMethod_Healthcare\FactoryMethod_Healthcare\bin\Debug\FactoryMethod_Healthcare.pdb
+C:\Users\Busra\source\repos\FactoryMethod_Healthcare\FactoryMethod_Healthcare\obj\Debug\FactoryMethod_Healthcare.csproj.AssemblyReference.cache
+C:\Users\Busra\source\repos\FactoryMethod_Healthcare\FactoryMethod_Healthcare\obj\Debug\FactoryMethod_Healthcare.csproj.CoreCompileInputs.cache
+C:\Users\Busra\source\repos\FactoryMethod_Healthcare\FactoryMethod_Healthcare\obj\Debug\FactoryMethod_Healthcare.exe
+C:\Users\Busra\source\repos\FactoryMethod_Healthcare\FactoryMethod_Healthcare\obj\Debug\FactoryMethod_Healthcare.pdb
+C:\Users\Busra\Desktop\CreationalPatterns\FactoryMethod_Healthcare\FactoryMethod_Healthcare\bin\Debug\FactoryMethod_Healthcare.exe.config
+C:\Users\Busra\Desktop\CreationalPatterns\FactoryMethod_Healthcare\FactoryMethod_Healthcare\bin\Debug\FactoryMethod_Healthcare.exe
+C:\Users\Busra\Desktop\CreationalPatterns\FactoryMethod_Healthcare\FactoryMethod_Healthcare\bin\Debug\FactoryMethod_Healthcare.pdb
+C:\Users\Busra\Desktop\CreationalPatterns\FactoryMethod_Healthcare\FactoryMethod_Healthcare\obj\Debug\FactoryMethod_Healthcare.csproj.AssemblyReference.cache
+C:\Users\Busra\Desktop\CreationalPatterns\FactoryMethod_Healthcare\FactoryMethod_Healthcare\obj\Debug\FactoryMethod_Healthcare.csproj.CoreCompileInputs.cache
+C:\Users\Busra\Desktop\CreationalPatterns\FactoryMethod_Healthcare\FactoryMethod_Healthcare\obj\Debug\FactoryMethod_Healthcare.exe
+C:\Users\Busra\Desktop\CreationalPatterns\FactoryMethod_Healthcare\FactoryMethod_Healthcare\obj\Debug\FactoryMethod_Healthcare.pdb
