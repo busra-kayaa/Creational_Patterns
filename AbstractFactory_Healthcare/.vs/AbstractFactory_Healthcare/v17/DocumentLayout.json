@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\abstractfactory_healthcare\\publichospitaldoctorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|solutionrelative:abstractfactory_healthcare\\publichospitaldoctorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\abstractfactory_healthcare\\publichospitalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|solutionrelative:abstractfactory_healthcare\\publichospitalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\abstractfactory_healthcare\\ihealthcarefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|solutionrelative:abstractfactory_healthcare\\ihealthcarefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|c:\\users\\busra\\desktop\\creationalpatterns\\abstractfactory_healthcare\\abstractfactory_healthcare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|solutionrelative:abstractfactory_healthcare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\abstractfactory_healthcare\\privateclinicpatientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|solutionrelative:abstractfactory_healthcare\\privateclinicpatientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\abstractfactory_healthcare\\appointmentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|solutionrelative:abstractfactory_healthcare\\appointmentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\abstractfactory_healthcare\\iappointmentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|solutionrelative:abstractfactory_healthcare\\iappointmentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\abstractfactory_healthcare\\privateclinicfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|solutionrelative:abstractfactory_healthcare\\privateclinicfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\abstractfactory_healthcare\\privateclinicdoctorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|solutionrelative:abstractfactory_healthcare\\privateclinicdoctorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\abstractfactory_healthcare\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|solutionrelative:abstractfactory_healthcare\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\abstractfactory_healthcare\\publichospitalpatientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|solutionrelative:abstractfactory_healthcare\\publichospitalpatientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\abstractfactory_healthcare\\ipatientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|solutionrelative:abstractfactory_healthcare\\ipatientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\abstractfactory_healthcare\\idoctorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|solutionrelative:abstractfactory_healthcare\\idoctorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\abstractfactory_healthcare\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|solutionrelative:abstractfactory_healthcare\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\abstractfactory_healthcare\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AFCD7B-B8A0-4B3A-8831-F2E3C220DDB7}|AbstractFactory_Healthcare\\AbstractFactory_Healthcare.csproj|solutionrelative:abstractfactory_healthcare\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractFactory_Healthcare\\Program.cs",
+              "ToolTip": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\Program.cs",
+              "RelativeToolTip": "AbstractFactory_Healthcare\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:17:56.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PublicHospitalFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\PublicHospitalFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory_Healthcare\\PublicHospitalFactory.cs",
+              "ToolTip": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\PublicHospitalFactory.cs",
+              "RelativeToolTip": "AbstractFactory_Healthcare\\PublicHospitalFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:53:38.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IHealthcareFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\IHealthcareFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory_Healthcare\\IHealthcareFactory.cs",
+              "ToolTip": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\IHealthcareFactory.cs",
+              "RelativeToolTip": "AbstractFactory_Healthcare\\IHealthcareFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:51:05.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PublicHospitalDoctorFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\PublicHospitalDoctorFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory_Healthcare\\PublicHospitalDoctorFactory.cs",
+              "ToolTip": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\PublicHospitalDoctorFactory.cs",
+              "RelativeToolTip": "AbstractFactory_Healthcare\\PublicHospitalDoctorFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:04:39.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrivateClinicPatientFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\PrivateClinicPatientFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory_Healthcare\\PrivateClinicPatientFactory.cs",
+              "ToolTip": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\PrivateClinicPatientFactory.cs",
+              "RelativeToolTip": "AbstractFactory_Healthcare\\PrivateClinicPatientFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:17:47.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppointmentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\AppointmentFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory_Healthcare\\AppointmentFactory.cs",
+              "ToolTip": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\AppointmentFactory.cs",
+              "RelativeToolTip": "AbstractFactory_Healthcare\\AppointmentFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:20:07.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAppointmentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\IAppointmentFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory_Healthcare\\IAppointmentFactory.cs",
+              "ToolTip": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\IAppointmentFactory.cs",
+              "RelativeToolTip": "AbstractFactory_Healthcare\\IAppointmentFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:51:35.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PrivateClinicFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\PrivateClinicFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory_Healthcare\\PrivateClinicFactory.cs",
+              "ToolTip": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\PrivateClinicFactory.cs",
+              "RelativeToolTip": "AbstractFactory_Healthcare\\PrivateClinicFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:17:38.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PrivateClinicDoctorFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\PrivateClinicDoctorFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory_Healthcare\\PrivateClinicDoctorFactory.cs",
+              "ToolTip": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\PrivateClinicDoctorFactory.cs",
+              "RelativeToolTip": "AbstractFactory_Healthcare\\PrivateClinicDoctorFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:17:29.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPatientFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\IPatientFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory_Healthcare\\IPatientFactory.cs",
+              "ToolTip": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\IPatientFactory.cs",
+              "RelativeToolTip": "AbstractFactory_Healthcare\\IPatientFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:50:57.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\Patient.cs",
+              "RelativeDocumentMoniker": "AbstractFactory_Healthcare\\Patient.cs",
+              "ToolTip": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\Patient.cs",
+              "RelativeToolTip": "AbstractFactory_Healthcare\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:49:53.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PublicHospitalPatientFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\PublicHospitalPatientFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory_Healthcare\\PublicHospitalPatientFactory.cs",
+              "ToolTip": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\PublicHospitalPatientFactory.cs",
+              "RelativeToolTip": "AbstractFactory_Healthcare\\PublicHospitalPatientFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:18:30.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDoctorFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\IDoctorFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory_Healthcare\\IDoctorFactory.cs",
+              "ToolTip": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\IDoctorFactory.cs",
+              "RelativeToolTip": "AbstractFactory_Healthcare\\IDoctorFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:51:18.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\Appointment.cs",
+              "RelativeDocumentMoniker": "AbstractFactory_Healthcare\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\Appointment.cs",
+              "RelativeToolTip": "AbstractFactory_Healthcare\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:19:58.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\Doctor.cs",
+              "RelativeDocumentMoniker": "AbstractFactory_Healthcare\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Busra\\Desktop\\CreationalPatterns\\AbstractFactory_Healthcare\\AbstractFactory_Healthcare\\Doctor.cs",
+              "RelativeToolTip": "AbstractFactory_Healthcare\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:49:40.348Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
